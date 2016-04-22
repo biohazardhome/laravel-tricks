@@ -1,0 +1,992 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"padding"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"var_",
+				"var_dump〔function〕"
+			],
+			[
+				"ceme",
+				"$cemeteries〔variable〕"
+			],
+			[
+				"img",
+				"$imgFileName〔variable〕"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"monum",
+				"monuments"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string〔function〕"
+			],
+			[
+				"init_",
+				"ini_set"
+			],
+			[
+				"se",
+				"segments"
+			],
+			[
+				"arE",
+				"$arElement〔variable〕"
+			],
+			[
+				"ini",
+				"ini_set〔function〕"
+			],
+			[
+				"error",
+				"error_reporting〔function〕"
+			],
+			[
+				"get_",
+				"get_class〔function〕"
+			],
+			[
+				"erro",
+				"error_reporting〔function〕"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"va",
+				"var_dump($arElement"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"t",
+				"table	Tag"
+			],
+			[
+				"ob_",
+				"ob_get_contents〔function〕"
+			],
+			[
+				"error_",
+				"error_reporting"
+			],
+			[
+				"arR",
+				"$arResult〔variable〕"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"ex",
+				"extract"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"ser",
+				"servicesTable"
+			],
+			[
+				"she",
+				"schedule"
+			],
+			[
+				"property",
+				"property_exists〔function〕"
+			],
+			[
+				"cal",
+				"calculateFields"
+			],
+			[
+				"JSON",
+				"JSON_UNESCAPED_UNICODE〔constant〕"
+			],
+			[
+				"realpath",
+				"realpath_cache_get〔function〕"
+			],
+			[
+				"tar",
+				"tariffFields"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"ima",
+				"$images〔variable〕"
+			],
+			[
+				"ch",
+				"change"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"insta",
+				"instanceof〔keyword〕"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_object〔function〕"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"reqi",
+				"require_once〔keyword〕"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"e",
+				"exif_"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"array_fi",
+				"array_filter〔function〕"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"clie",
+				"clientsEl"
+			],
+			[
+				"ELE",
+				"ELEMENT_ID"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"empl",
+				"employees"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"def",
+				"defaultOptions"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"que",
+				"$query_all〔variable〕"
+			],
+			[
+				"quer",
+				"query_all"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/nikolai/Desktop/php.php",
+			"settings":
+			{
+				"buffer_size": 48,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 566,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/contact.blade.php",
+			"settings":
+			{
+				"buffer_size": 301,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/ContactController.php",
+			"settings":
+			{
+				"buffer_size": 279,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Requests/SendContactRequest.php",
+			"settings":
+			{
+				"buffer_size": 572,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/php.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/php.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/php.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 312.0,
+		"last_filter": "file",
+		"selected_items":
+		[
+			[
+				"file",
+				"File: New View into File"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ci",
+				"Package Control: Install Package"
+			],
+			[
+				"setsht",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OpenServer/domains/laravel-tricks"
+	],
+	"file_history":
+	[
+		"/C/Users/nikolai/Desktop/php.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp03956/var/www/eurogranite/data/www/new.eurogranite.ru/bitrix/templates/main/header.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp42748/bitrix/templates/dockepie/css/template_styles.css",
+		"/C/Users/nikolai/Desktop/WEB/SEO/ORSIGroup/Изменения.txt",
+		"/C/Users/nikolai/Desktop/WEB/SEO/SIPROOF/Изменения.txt",
+		"/C/Users/nikolai/Desktop/WEB/ДОСТУПЫ/Новый текстовый документ.txt",
+		"/C/Users/nikolai/Desktop/GitHub.txt",
+		"/C/Users/nikolai/AppData/Local/GitHub/PortableGit_25d850739bc178b2eb13c3e2a9faafea2f9143c0/mingw32/share/doc/git-doc/git-fetch.html",
+		"/C/Users/nikolai/AppData/Local/Temp/scp57495/var/www/vodolej-plus/data/www/vodolej-plus.ru/bitrix/templates/MAIN/header.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp59052/var/www/vodolej-plus/data/www/vodolej-plus.ru/bitrix/templates/MAIN/footer.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp59723/var/www/vodolej-plus/data/www/vodolej-plus.ru/bitrix/templates/MAIN/js/user.js",
+		"/C/Users/nikolai/AppData/Local/Temp/scp59658/var/www/vodolej-plus/data/www/vodolej-plus.ru/bitrix/templates/MAIN/js/main.js",
+		"/C/Users/nikolai/AppData/Local/Temp/scp00928/var/www/vodolej-plus/data/www/vodolej-plus.ru/bitrix/templates/MAIN/js/pie.js",
+		"/C/Users/nikolai/AppData/Local/Temp/scp57868/var/www/vodolej-plus/data/www/vodolej-plus.ru/bitrix/templates/INNER/header.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp20757/bitrix/templates/dockepie/footer.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp25455/var/www/vodolej-plus/data/www/vodolej-plus.ru/robots.txt",
+		"/C/Users/nikolai/AppData/Local/Temp/scp07376/var/www/gaz-auto-service/data/www/gaz-auto-service.ru/bitrix/templates/MAIN/styles.css",
+		"/C/Users/nikolai/AppData/Local/Temp/scp07242/var/www/gaz-auto-service/data/www/gaz-auto-service.ru/bitrix/templates/MAIN/template_styles.css",
+		"/C/Users/nikolai/Desktop/sip-roofru.sql",
+		"/C/Users/nikolai/AppData/Local/Temp/scp22729/var/www/gaz-auto-service/data/www/gaz-auto-service.ru/sitemap_files.xml",
+		"/C/OpenServer/userdata/config/PHP-5.6_php.ini",
+		"/C/Users/nikolai/AppData/Local/Temp/scp45855/detail.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp22410/bitrix/templates/dockepie/header.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp54442/public_html/templates/default/css/style.css",
+		"/C/Users/nikolai/AppData/Local/Temp/scp03673/bitrix/templates/dockepie/js/fancybox/jquery.fancybox.css",
+		"/C/Users/nikolai/AppData/Local/Temp/scp06021/bitrix/templates/dockepie/components/bitrix/catalog.section.list/sectionlist-foto/template.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp19027/var/www/vodolej-plus/data/www/vodolej-plus.ru/.htaccess",
+		"/C/Users/nikolai/AppData/Local/Temp/scp16264/var/www/sip-roof/data/www/sip-roof.ru/mail.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp03435/public_html/templates/default/html_start.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp08144/proizvodstvo/index.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp34360/bitrix/components/bitrix/news.list/.parameters.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp11385/bitrix/templates/.default/components/bitrix/news.list/ajax_list/template.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp40788/informatsiya/kalkulyator/index.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp39286/proizvodstvo/proizvodstvennyy-kompleks/index.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp27983/include/montage_instr.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp19742/bitrix/templates/.default/components/bitrix/news.list/ajax_list/template_old.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp38423/informatsiya/konstruktor.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp26396/include/montage_dir.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp58744/var/www/sip-roof/data/www/sip-roof.ru/manager/includes/config.inc.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp48744/var/www/sip-roof/data/www/sip-roof.ru/index.php",
+		"/C/OpenServer/domains/laravel-tricks/helpers.php",
+		"/C/OpenServer/domains/laravel-tricks/composer.json",
+		"/C/Users/nikolai/AppData/Local/Temp/scp03268/public_html/templates/default/js/index.js",
+		"/C/Users/nikolai/AppData/Local/Temp/scp42134/bitrix/templates/dockepie/template_styles.css",
+		"/C/OpenServer/domains/laravel-tricks/.gitignore",
+		"/C/Users/nikolai/AppData/Local/Temp/scp58122/var/www/sip-roof/data/www/sip-roof.ru/assets/cache/images/.htaccess",
+		"/C/Users/nikolai/AppData/Local/Temp/scp01307/var/www/sip-roof/data/www/sip-roof.ru/.htaccess",
+		"/C/OpenServer/domains/laravel-tricks/.gitattributes",
+		"/C/OpenServer/domains/laravel-tricks/.env.example",
+		"/C/OpenServer/domains/laravel-tricks/.env",
+		"/C/Users/nikolai/AppData/Local/Temp/scp55742/var/www/sip-roof/data/www/sip-roof.ru/assets/cache/sitePublishing.idx.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp55896/var/www/sip-roof/data/www/sip-roof.ru/assets/cache/siteHostnames.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp04097/var/www/sip-roof/data/www/sip-roof.ru/assets/cache/siteCache.idx.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp01059/var/www/sip-roof/data/www/sip-roof.ru/assets/cache/.htaccess",
+		"/C/Users/nikolai/AppData/Local/Temp/scp12941/var/www/sip-roof/data/www/sip-roof.ru/ajax.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp49938/var/log/apache2/access.log",
+		"/C/Users/nikolai/AppData/Local/Temp/scp49707/var/log/apache2/error.log",
+		"/C/Users/nikolai/Desktop/sip-roof.ru/sip-roof.ru/manager/includes/config.inc.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp08837/var/www/sip-roof/data/www/sip-roof.ru/index-ajax.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp05915/var/www/sip-roof/data/www/sip-roof.ru/assets/cache/siteManager.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp04867/var/www/sip-roof/data/www/sip-roof.ru/assets/cache/docid_1.pageCache.php",
+		"/C/OpenServer/domains/laravel-tricks/config/compile.php",
+		"/C/OpenServer/domains/laravel-tricks/config/filesystems.php",
+		"/C/OpenServer/domains/laravel-tricks/config/services.php",
+		"/C/OpenServer/domains/laravel-tricks/config/view.php",
+		"/C/OpenServer/domains/laravel-tricks/config/session.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp46524/bitrix/templates/dockepie/components/bitrix/menu/mainmenu/template.php",
+		"/C/OpenServer/modules/php/PHP-5.6/php.ini",
+		"/C/Users/nikolai/AppData/Local/Temp/scp02445/var/www/awtonomka/data/www/awtonomka.ru/bitrix/templates/base/header.php",
+		"/C/OpenServer/domains/lara/bootstrap/cache/compiled.php",
+		"/C/OpenServer/domains/laravel-tricks/config/app.php",
+		"/C/OpenServer/domains/laravel-tricks/config/database.php",
+		"/C/OpenServer/domains/laravel-tricks/config/auth.php",
+		"/C/OpenServer/domains/laravel-tricks/config/cache.php",
+		"/C/OpenServer/domains/lara/config/app.php",
+		"/C/OpenServer/domains/lara/.env",
+		"/C/OpenServer/domains/lara/storage/logs/laravel.log",
+		"/C/Users/nikolai/AppData/Local/Temp/scp42777/bitrix/templates/dockepie/styles.css",
+		"/C/OpenServer/domains/lara/gulpfile.js",
+		"/C/OpenServer/domains/lara/public/.htaccess",
+		"/C/OpenServer/domains/lara/bootstrap/autoload.php",
+		"/C/OpenServer/domains/lara/public/index.php",
+		"/C/php-5.6.20/php.ini",
+		"/C/php-5.6.20/php.ini-development",
+		"/C/Windows/php.ini",
+		"/C/OpenServer/modules/php/PHP-5.6/php.ini-production",
+		"/C/OpenServer/domains/lara/.htaccess",
+		"/C/OpenServer/domains/lara/.htaccess.txt",
+		"/C/Users/nikolai/AppData/Local/Temp/scp39638/var/www/vodolej-plus/data/www/vodolej-plus.ru/bitrix/components/fler/catalog.section.detail/templates/.default/template.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp40263/var/www/vodolej-plus/data/www/vodolej-plus.ru/bitrix/components/fler/catalog.section.detail/component.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp34641/var/www/vodolej-plus/data/www/vodolej-plus.ru/robots.txt",
+		"/C/Users/nikolai/AppData/Local/Temp/scp01639/bitrix/templates/dockepie/footer.php",
+		"/C/OpenServer/modules/php/PHP-5.6/composer.bat",
+		"/C/Users/nikolai/AppData/Local/Temp/scp39342/var/www/awtonomka/data/www/awtonomka.ru/bitrix/templates/base/header.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp26542/var/www/awtonomka/data/www/awtonomka.ru/bitrix/templates/.default/header.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp26835/var/www/awtonomka/data/www/awtonomka.ru/bitrix/templates/.default/footer.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp00638/bitrix/templates/dockepie/footer_old.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp36321/var/www/vodolej-plus/data/www/vodolej-plus.ru/bitrix/components/fler/catalog.section.list/component.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp36447/var/www/vodolej-plus/data/www/vodolej-plus.ru/bitrix/components/fler/catalog.section.list/templates/.default/template.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp00429/var/www/vodolej-plus/data/www/vodolej-plus.ru/bitrix/templates/MAIN/header.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp02775/www/sip-roof.ru/assets/tvs/multitv/configs/slider.config.inc.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp41349/bitrix/templates/dockepie/css/template_styles.css",
+		"/C/Users/nikolai/AppData/Local/Temp/scp42308/assortiment/konyek-karniz-endova/index.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp53340/bitrix/templates/dockepie/header.php",
+		"/C/Users/nikolai/Desktop/WEB/SEO/ORSIGroup/Стратегия.txt",
+		"/C/Users/nikolai/AppData/Local/Temp/scp24652/bitrix/templates/dockepie/components/bitrix/breadcrumb/breadcrumbs/template.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp27461/bitrix/components/bitrix/breadcrumb/component.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp32451/bitrix/index.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp32263/detail.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp36855/assortiment/detail.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp30628/bitrix/components/bitrix/breadcrumb/.parameters.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp25573/bitrix/templates/.default/components/bitrix/news.list/ajax_list/template.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp14118/bitrix/templates/dockepie/components/bitrix/catalog.section.list/sectionlist_color/template.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp42505/bitrix/templates/dockepie/components/bitrix/news.list/category-articles-anons/template.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp25896/assortiment/konyek-karniz-endova2/index.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp34038/bitrix/modules/main/interface/user_options.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp52459/bitrix/modules/main/interface/top_panel.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp54705/bitrix/templates/dockepie/js/hoverideas/set2.css",
+		"/C/OpenServer/domains/bitrix/bitrix/modules/main/install/js/main/core/core.js",
+		"/C/Users/nikolai/AppData/Local/Temp/scp53877/bitrix/templates/dockepie/components/bitrix/menu/mainmenu/template.php",
+		"/C/OpenServer/domains/bitrix/bitrix/themes/.default/adminstyles.css",
+		"/C/OpenServer/domains/bitrix/bitrix/themes/.default/pubstyles.css",
+		"/C/OpenServer/domains/bitrix/bitrix/panel/main/admin-public.css",
+		"/C/OpenServer/domains/bitrix/bitrix/panel/main/composite.css",
+		"/C/OpenServer/domains/bitrix/bitrix/panel/main/adminstyles_fixed.css",
+		"/C/OpenServer/domains/bitrix/bitrix/panel/main/admin.css",
+		"/C/Users/nikolai/AppData/Local/Temp/scp18876/bitrix/templates/dockepie/components/bitrix/catalog.section.list/sectionlist_color2/template.php",
+		"/C/Users/nikolai/AppData/Local/Temp/scp20300/bitrix/templates/dockepie/components/bitrix/catalog.section.list/sectionlist_color2/result_modifier.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"design",
+			".main-menu .main-menu:last-child li",
+			"septik",
+			"cities",
+			"fancy",
+			"SECTION",
+			".main-menu:first-child .main-fisrt-li li:first-child a",
+			"sip-roof",
+			"display",
+			":hover",
+			"toggle",
+			"header",
+			"hash",
+			"extension",
+			"exten",
+			"openssl",
+			"title",
+			"panel",
+			"panel-back",
+			"bx-panel-back",
+			"BX.admin",
+			"bx-panel-back",
+			"table",
+			"chosen.jquery",
+			"chosen.jquery.min.js",
+			"category",
+			"column-662",
+			"detai",
+			"collection-price",
+			"руб",
+			"get_tdk",
+			"meta_tdk",
+			"inform",
+			"info-block inform",
+			"article-item_time",
+			"mf_logo",
+			"belode",
+			"belod",
+			"belode",
+			"beloden",
+			"belodent.ru",
+			"belode",
+			"maxsi",
+			"webstat",
+			"catalogsections_item",
+			"catalogsections",
+			"ul",
+			"post-entry",
+			"textarea",
+			"price",
+			"файла",
+			".post-entry",
+			"fonts",
+			"getimagesize",
+			"mysql_query",
+			">\n",
+			"<figcaption>Календарь чистки зубов</figcaption>",
+			"figcaption",
+			"figure",
+			"utf",
+			"enco",
+			"katalog-oborudovaniya",
+			"wf_",
+			"DEFAULT_NAVIGATION_SEP",
+			"navigation_sep",
+			";\n",
+			"clearfix",
+			"get_navigation",
+			"review-item_content",
+			"России",
+			".content",
+			"bitri",
+			"objects",
+			"doctor",
+			".photos-befor",
+			"page-top_right",
+			"main-right",
+			"conta",
+			"contai",
+			"nav-bottom_desc nav-bottom_desc_1",
+			"form-fixed",
+			"content p",
+			"content",
+			"content p",
+			"В",
+			"?\n",
+			".content",
+			".form-fixed",
+			"table",
+			"footer",
+			".contai",
+			"footer .con",
+			"footer .co",
+			" .",
+			"gallery",
+			".quest-item_header:after",
+			"main",
+			"max",
+			"vse",
+			"полезное",
+			"decor-list",
+			"menu",
+			"production",
+			"']?>\"",
+			"partner",
+			"NavStart",
+			"PAGER_TEMPLATE",
+			"navComponentObject",
+			"currency",
+			"item",
+			"log",
+			" class=\"odd\"",
+			"ANGELINA",
+			"RONJA",
+			"angelina",
+			"WILSON",
+			"CARTER",
+			"RASMUS  ",
+			"yed",
+			"TAYLOR ",
+			"Greta",
+			"ANGELINA",
+			"KLARA",
+			"амаратновый",
+			"Тип карманов",
+			"div",
+			"IDA",
+			"OLIVIA"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"Fakro",
+			"/assets/images/album/grandline/grand-line/colors",
+			"/assets/images/album/grandline",
+			"/assets/images/album/grandline/colors/atlas",
+			"/assets/images/album/grandline/colors/colority-print",
+			"/assets/images/album/grandline/colors/safari",
+			"/assets/images/album/grandline/colors/velur",
+			"/assets/images/album/grandline/colors/quarzit-lite",
+			"/assets/images/album/grandline/colors/quarzit",
+			"/assets/images/album/grandline/colors/quarzit-matt",
+			"/assets/images/album/grandline/colors/poliester",
+			"assets/images/album/grandline/classic/quarzit-matt/",
+			"assets/images/album/grandline/classic/poliester/",
+			"width=\"200\"",
+			"Проектная декларация",
+			"<td>\\1</td>",
+			" ",
+			"span",
+			"images",
+			"SITE_TEMPLATE_PATH"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/nikolai/Desktop/php.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"history_list_is_closing": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								550,
+								550
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": -0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/contact.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Http/Controllers/ContactController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Http/Requests/SendContactRequest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravel-tricks.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"contacc",
+				"C:\\OpenServer\\domains\\laravel-tricks\\resources\\views\\contact.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\nikolai\\Desktop\\WEB\\web.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

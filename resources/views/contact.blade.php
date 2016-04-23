@@ -1,6 +1,6 @@
 
 <form action="/contact/store" method="POST">
-	{{ csrf_token() }}
+	{{ csrf_field() }}
 
 	<input type="text" name="name" placeholder="Name" required>
 	<input type="email" name="email" placeholder="email" required>

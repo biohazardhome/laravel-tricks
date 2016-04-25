@@ -13,7 +13,7 @@ class SendContactRequest extends Request
      */
     public function authorize()
     {
-        return false;
+        return true;
     }
 
     /**
@@ -24,9 +24,9 @@ class SendContactRequest extends Request
     public function rules()
     {
         return [
-            'name' => 'required',
+            'name' => 'required|min:3',
             'email' => 'required|email',
-            'message' => 'required',
+            'message' => 'required|min:10',
         ];
     }
 }
